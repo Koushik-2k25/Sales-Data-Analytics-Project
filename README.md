@@ -3,7 +3,7 @@
 This project focuses on analyzing company-wide sales performance using **Power BI**. The dataset used provides detailed insights into product categories, regional sales, delivery status, customer segments, and more. The objective is to deliver **valuable business insights**, **accurate 15-day sales forecasting**, and an **interactive, visually appealing dashboard** that supports **data-driven decision making** and drives business success.
 
 ## 🗂️ Dataset Used
-- <a href="https://github.com/Koushik-2k25/Sales-Data-Analytics-Project/blob/main/Sales%20Dataset.csv">Dataset</a>
+- <a href="https://github.com/Koushik-2k25/Sales-Data-Analytics-Project/blob/main/Sales%20Dataset.xlsx">Dataset</a>
 
 ## 🧰 Tools & Techniques Used
 - Microsoft Power BI
